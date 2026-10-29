@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos Oliveros
+# Hola Soy Carlos 
 
    <img src="banner.svg" alt="Ingeniería Industrial: analítica y toma de decisiones" width="100%">
 
