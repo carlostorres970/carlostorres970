@@ -39,7 +39,7 @@ Me interesa que el dato sirva para tomar decisiones. Una vez anticipé el pico d
 
 | Proyecto | Descripción |
 |---|---|
-| [Portafolio web](https://carlosoliveros-portafolio.netlify.app/) | Mi hoja de vida en formato web, bilingüe (ES/EN), con video de presentación. |
+| [Portafolio web](https://carlosoliveros-portafolio.netlify.app/) | Mi hoja de vida en formato web, bilingüe (ES/EN). |
 
 Mis proyectos de datos en Python y Power BI están en construcción. Los iré publicando aquí.
 
