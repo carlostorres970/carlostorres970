@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola Soy Carlos 
+# Hola! Soy Carlos 
 
    <img src="banner.svg" alt="Ingeniería Industrial: analítica y toma de decisiones" width="100%">
 
