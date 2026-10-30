@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Estudio octavo semestre de Ingeniería Industrial en la Universidad de Antioquia, con énfasis en analítica de datos. Vengo de más de tres años de trabajo operativo real (caja, administración y producción), donde aprendí a trabajar con precisión y a documentar procesos.
+Estoy cursando octavo semestre de Ingeniería Industrial en la Universidad de Antioquia, con énfasis en analítica de datos. Vengo de más de tres años de trabajo operativo real (caja, administración y producción), donde aprendí a trabajar con precisión y a documentar procesos.
 
 Me interesa que el dato sirva para tomar decisiones. Una vez anticipé el pico de visitantes de un parque de diversiones cruzando el inventario de varias sedes con el calendario de estrenos de cine, y llegamos preparados. Quiero hacer eso mismo con método y con código.
 
